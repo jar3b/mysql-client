@@ -1,0 +1,1 @@
+Simple docker image to connect mysql though sh
